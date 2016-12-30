@@ -1,0 +1,249 @@
+id:4	abr:AF	name:Afghanistan
+id:8	abr:AL	name:Albania
+id:12	abr:DZ	name:Algeria
+id:16	abr:AS	name:American Samoa
+id:20	abr:AD	name:Andorra
+id:24	abr:AO	name:Angola
+id:660	abr:AI	name:Anguilla
+id:10	abr:AQ	name:Antarctica
+id:28	abr:AG	name:Antigua and Barbuda
+id:32	abr:AR	name:Argentina
+id:51	abr:AM	name:Armenia
+id:533	abr:AW	name:Aruba
+id:36	abr:AU	name:Australia
+id:40	abr:AT	name:Austria
+id:31	abr:AZ	name:Azerbaijan
+id:44	abr:BS	name:Bahamas
+id:48	abr:BH	name:Bahrain
+id:50	abr:BD	name:Bangladesh
+id:52	abr:BB	name:Barbados
+id:112	abr:BY	name:Belarus
+id:56	abr:BE	name:Belgium
+id:84	abr:BZ	name:Belize
+id:204	abr:BJ	name:Benin
+id:60	abr:BM	name:Bermuda
+id:64	abr:BT	name:Bhutan
+id:68	abr:BO	name:Bolivia
+id:535	abr:BQ	name:Bonaire
+id:70	abr:BA	name:Bosnia and Herzegovina
+id:72	abr:BW	name:Botswana
+id:74	abr:BV	name:Bouvet Island
+id:76	abr:BR	name:Brazil
+id:86	abr:IO	name:British Indian Ocean Territory
+id:96	abr:BN	name:Brunei Darussalam
+id:100	abr:BG	name:Bulgaria
+id:854	abr:BF	name:Burkina Faso
+id:108	abr:BI	name:Burundi
+id:116	abr:KH	name:Cambodia
+id:120	abr:CM	name:Cameroon
+id:124	abr:CA	name:Canada
+id:132	abr:CV	name:Cape Verde
+id:136	abr:KY	name:Cayman Islands
+id:140	abr:CF	name:Central African Republic
+id:148	abr:TD	name:Chad
+id:152	abr:CL	name:Chile
+id:156	abr:CN	name:China
+id:162	abr:CX	name:Christmas Island
+id:166	abr:CC	name:Cocos (Keeling) Islands
+id:170	abr:CO	name:Colombia
+id:174	abr:KM	name:Comoros
+id:178	abr:CG	name:Congo
+id:180	abr:CD	name:Democratic Republic of the Congo
+id:184	abr:CK	name:Cook Islands
+id:188	abr:CR	name:Costa Rica
+id:191	abr:HR	name:Croatia
+id:192	abr:CU	name:Cuba
+id:531	abr:CW	name:CuraÃ§ao
+id:196	abr:CY	name:Cyprus
+id:203	abr:CZ	name:Czech Republic
+id:384	abr:CI	name:CÃ´te d'Ivoire
+id:208	abr:DK	name:Denmark
+id:262	abr:DJ	name:Djibouti
+id:212	abr:DM	name:Dominica
+id:214	abr:DO	name:Dominican Republic
+id:218	abr:EC	name:Ecuador
+id:818	abr:EG	name:Egypt
+id:222	abr:SV	name:El Salvador
+id:226	abr:GQ	name:Equatorial Guinea
+id:232	abr:ER	name:Eritrea
+id:233	abr:EE	name:Estonia
+id:231	abr:ET	name:Ethiopia
+id:238	abr:FK	name:Falkland Islands (Malvinas)
+id:234	abr:FO	name:Faroe Islands
+id:242	abr:FJ	name:Fiji
+id:246	abr:FI	name:Finland
+id:250	abr:FR	name:France
+id:254	abr:GF	name:French Guiana
+id:258	abr:PF	name:French Polynesia
+id:260	abr:TF	name:French Southern Territories
+id:266	abr:GA	name:Gabon
+id:270	abr:GM	name:Gambia
+id:268	abr:GE	name:Georgia
+id:276	abr:DE	name:Germany
+id:288	abr:GH	name:Ghana
+id:292	abr:GI	name:Gibraltar
+id:300	abr:GR	name:Greece
+id:304	abr:GL	name:Greenland
+id:308	abr:GD	name:Grenada
+id:312	abr:GP	name:Guadeloupe
+id:316	abr:GU	name:Guam
+id:320	abr:GT	name:Guatemala
+id:831	abr:GG	name:Guernsey
+id:324	abr:GN	name:Guinea
+id:624	abr:GW	name:Guinea-Bissau
+id:328	abr:GY	name:Guyana
+id:332	abr:HT	name:Haiti
+id:334	abr:HM	name:Heard Island and McDonald Mcdonald Islands
+id:336	abr:VA	name:Holy See (Vatican City State)
+id:340	abr:HN	name:Honduras
+id:344	abr:HK	name:Hong Kong
+id:348	abr:HU	name:Hungary
+id:352	abr:IS	name:Iceland
+id:356	abr:IN	name:India
+id:360	abr:ID	name:Indonesia
+id:364	abr:IR	name:Iran, Islamic Republic of
+id:368	abr:IQ	name:Iraq
+id:372	abr:IE	name:Ireland
+id:833	abr:IM	name:Isle of Man
+id:376	abr:IL	name:Israel
+id:380	abr:IT	name:Italy
+id:388	abr:JM	name:Jamaica
+id:392	abr:JP	name:Japan
+id:832	abr:JE	name:Jersey
+id:400	abr:JO	name:Jordan
+id:398	abr:KZ	name:Kazakhstan
+id:404	abr:KE	name:Kenya
+id:296	abr:KI	name:Kiribati
+id:408	abr:KP	name:Korea, Democratic People's Republic of
+id:410	abr:KR	name:Korea, Republic of
+id:414	abr:KW	name:Kuwait
+id:417	abr:KG	name:Kyrgyzstan
+id:418	abr:LA	name:Lao People's Democratic Republic
+id:428	abr:LV	name:Latvia
+id:422	abr:LB	name:Lebanon
+id:426	abr:LS	name:Lesotho
+id:430	abr:LR	name:Liberia
+id:434	abr:LY	name:Libya
+id:438	abr:LI	name:Liechtenstein
+id:440	abr:LT	name:Lithuania
+id:442	abr:LU	name:Luxembourg
+id:446	abr:MO	name:Macao
+id:807	abr:MK	name:Macedonia, the Former Yugoslav Republic of
+id:450	abr:MG	name:Madagascar
+id:454	abr:MW	name:Malawi
+id:458	abr:MY	name:Malaysia
+id:462	abr:MV	name:Maldives
+id:466	abr:ML	name:Mali
+id:470	abr:MT	name:Malta
+id:584	abr:MH	name:Marshall Islands
+id:474	abr:MQ	name:Martinique
+id:478	abr:MR	name:Mauritania
+id:480	abr:MU	name:Mauritius
+id:175	abr:YT	name:Mayotte
+id:484	abr:MX	name:Mexico
+id:583	abr:FM	name:Micronesia, Federated States of
+id:498	abr:MD	name:Moldova, Republic of
+id:492	abr:MC	name:Monaco
+id:496	abr:MN	name:Mongolia
+id:499	abr:ME	name:Montenegro
+id:500	abr:MS	name:Montserrat
+id:504	abr:MA	name:Morocco
+id:508	abr:MZ	name:Mozambique
+id:104	abr:MM	name:Myanmar
+id:516	abr:NA	name:Namibia
+id:520	abr:NR	name:Nauru
+id:524	abr:NP	name:Nepal
+id:528	abr:NL	name:Netherlands
+id:540	abr:NC	name:New Caledonia
+id:554	abr:NZ	name:New Zealand
+id:558	abr:NI	name:Nicaragua
+id:562	abr:NE	name:Niger
+id:566	abr:NG	name:Nigeria
+id:570	abr:NU	name:Niue
+id:574	abr:NF	name:Norfolk Island
+id:580	abr:MP	name:Northern Mariana Islands
+id:578	abr:NO	name:Norway
+id:512	abr:OM	name:Oman
+id:586	abr:PK	name:Pakistan
+id:585	abr:PW	name:Palau
+id:275	abr:PS	name:Palestine, State of
+id:591	abr:PA	name:Panama
+id:598	abr:PG	name:Papua New Guinea
+id:600	abr:PY	name:Paraguay
+id:604	abr:PE	name:Peru
+id:608	abr:PH	name:Philippines
+id:612	abr:PN	name:Pitcairn
+id:616	abr:PL	name:Poland
+id:620	abr:PT	name:Portugal
+id:630	abr:PR	name:Puerto Rico
+id:634	abr:QA	name:Qatar
+id:642	abr:RO	name:Romania
+id:643	abr:RU	name:Russian Federation
+id:646	abr:RW	name:Rwanda
+id:638	abr:RE	name:Reunion
+id:652	abr:BL	name:Saint Barthelemy
+id:654	abr:SH	name:Saint Helena
+id:659	abr:KN	name:Saint Kitts and Nevis
+id:662	abr:LC	name:Saint Lucia
+id:663	abr:MF	name:Saint Martin (French part)
+id:666	abr:PM	name:Saint Pierre and Miquelon
+id:670	abr:VC	name:Saint Vincent and the Grenadines
+id:882	abr:WS	name:Samoa
+id:674	abr:SM	name:San Marino
+id:678	abr:ST	name:Sao Tome and Principe
+id:682	abr:SA	name:Saudi Arabia
+id:686	abr:SN	name:Senegal
+id:688	abr:RS	name:Serbia
+id:690	abr:SC	name:Seychelles
+id:694	abr:SL	name:Sierra Leone
+id:702	abr:SG	name:Singapore
+id:534	abr:SX	name:Sint Maarten (Dutch part)
+id:703	abr:SK	name:Slovakia
+id:705	abr:SI	name:Slovenia
+id:90	abr:SB	name:Solomon Islands
+id:706	abr:SO	name:Somalia
+id:710	abr:ZA	name:South Africa
+id:239	abr:GS	name:South Georgia and the South Sandwich Islands
+id:728	abr:SS	name:South Sudan
+id:724	abr:ES	name:Spain
+id:144	abr:LK	name:Sri Lanka
+id:729	abr:SD	name:Sudan
+id:740	abr:SR	name:Suriname
+id:744	abr:SJ	name:Svalbard and Jan Mayen
+id:748	abr:SZ	name:Swaziland
+id:752	abr:SE	name:Sweden
+id:756	abr:CH	name:Switzerland
+id:760	abr:SY	name:Syrian Arab Republic
+id:158	abr:TW	name:Taiwan, Province of China
+id:762	abr:TJ	name:Tajikistan
+id:834	abr:TZ	name:United Republic of Tanzania
+id:764	abr:TH	name:Thailand
+id:626	abr:TL	name:Timor-Leste
+id:768	abr:TG	name:Togo
+id:772	abr:TK	name:Tokelau
+id:776	abr:TO	name:Tonga
+id:780	abr:TT	name:Trinidad and Tobago
+id:788	abr:TN	name:Tunisia
+id:792	abr:TR	name:Turkey
+id:795	abr:TM	name:Turkmenistan
+id:796	abr:TC	name:Turks and Caicos Islands
+id:798	abr:TV	name:Tuvalu
+id:800	abr:UG	name:Uganda
+id:804	abr:UA	name:Ukraine
+id:784	abr:AE	name:United Arab Emirates
+id:826	abr:GB	name:United Kingdom
+id:840	abr:US	name:United States
+id:581	abr:UM	name:United States Minor Outlying Islands
+id:858	abr:UY	name:Uruguay
+id:860	abr:UZ	name:Uzbekistan
+id:548	abr:VU	name:Vanuatu
+id:862	abr:VE	name:Venezuela
+id:704	abr:VN	name:Viet Nam
+id:92	abr:VG	name:British Virgin Islands
+id:850	abr:VI	name:US Virgin Islands
+id:876	abr:WF	name:Wallis and Futuna
+id:732	abr:EH	name:Western Sahara
+id:887	abr:YE	name:Yemen
+id:894	abr:ZM	name:Zambia
+id:716	abr:ZW	name:Zimbabwe
+id:248	abr:AX	name:Aland Islands

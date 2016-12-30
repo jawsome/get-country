@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -i "$1" ~/projects/get-country/bin/../data/countries.data
